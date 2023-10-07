@@ -83,7 +83,7 @@
                   margin-right: 10px;
                   width: 100%;
                }
-               .cansel_item-btn {
+               .cancel_item-btn {
                   padding: 0 10px;
                   background: rgb(168,17,12);
                   border: none;
@@ -133,8 +133,17 @@
       bottom: 50px;
       left: 50%;
       transform: translate(-50%);
-      color: wheat;
+      color: rgb(59, 30, 30);
       border-radius: 3px;
       font-size: 14;
+   }
+
+   .dell-board {
+  position: relative;
+  width: 15px;
+  height: 15px;
+  border: 2px dashed rgb(252, 0, 0);
+  margin-left: 220px;
+  margin-bottom: 10px;
    }
 }
